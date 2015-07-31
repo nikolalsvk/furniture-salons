@@ -1,0 +1,3 @@
+prevoz;prevoz robe do zeljenog odredista;100
+montaza;montiranje kupljene robe;50
+selidba;vrsenje seldibe na zeljenu lokaciju;200

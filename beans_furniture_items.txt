@@ -1,0 +1,10 @@
+123; Krevet za decu; Crvena; Makedonija; DOO Namestaj-FYROM; 100; 4; Kreveti; 2013; S sistem
+333; Ugaoni ormar; Smedja; Svedska; Sweden; 500; 10; Ormari; 2014; S sistem
+124; Krevet; Smedja; Srbija; Jugoalat; 120; 3; Kreveti; 2000; Sala
+435; Pisaci sto; Crna; Srbija; Jugoalat; 233; 14; Stolovi; 2004; Simpo
+4a35; Trpezarijski sto "Ubica"; Crna; Srbija; Jugoalat; 600; 1; Stolovi; 2002; Simpo
+4b35; Stoni sto; Crna; Srbija; Stoleraj&Moleraj; 233; 14; Stolovi; 2012; Simpo
+4c35; Sto za stoni tenis; Crna; Srbija; KakoGod Stoleraj; 233; 3; Stolovi; 2011; Simpo
+1245; Krevet "Kingsman tale"; Smedja; Srbija; RadimoSve; 120; 3; Kreveti; 2001; Sala
+1244; Krevet "Odlican"; Cyan; Srbija; Stolarija; 120; 3; Kreveti; 2014; Sala
+1424; Krevet "Ukulele"; Svetlo-braon; Montenegro; Lokalni stolar; 120; 3; Kreveti; 2011; Sala

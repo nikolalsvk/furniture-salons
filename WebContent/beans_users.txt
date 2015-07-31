@@ -1,0 +1,3 @@
+admin;admin;Nikola;Djuza;admin;0691138161;nikolaseap@gmail.com
+nikolalsvk;test;Nikola;Lsvk;user;0637506150;nikolalsvk@yahoo.com
+branka;test;Branka;Biberdzic;manager;0637292332;branka993@yahoo.com

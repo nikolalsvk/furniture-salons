@@ -1,0 +1,4 @@
+Vitorog;Fruskogorska 2;021855255;buy@vitorog.com;www.vitorog.com;55684;00025;56986
+S sistem;Ive Lole Ribara 55;1234546;posalji@s-sistem.org;www.s-sistem.org;234;32423;1236
+Simpo;Brace ribnikara 32;1234555;buy@simpo.com;www.simpo.co.yu;213;435123;3333
+Sala;Zivojina Misica 89;1324;sala@sala.org;www.sala.org;14434;123124;123123
